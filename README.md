@@ -1,4 +1,4 @@
 # Pengeluaranku
 
 Main Screen
-![](Screenshots/main.png)
+<img src="Screenshots/main.png width=100">
