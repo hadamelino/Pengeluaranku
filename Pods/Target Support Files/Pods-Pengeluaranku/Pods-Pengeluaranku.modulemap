@@ -1,0 +1,6 @@
+framework module Pods_Pengeluaranku {
+  umbrella header "Pods-Pengeluaranku-umbrella.h"
+
+  export *
+  module * { export * }
+}

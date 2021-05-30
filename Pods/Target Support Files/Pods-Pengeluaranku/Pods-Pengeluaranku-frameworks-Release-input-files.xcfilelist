@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-Pengeluaranku/Pods-Pengeluaranku-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Canvas/Canvas.framework
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
+${BUILT_PRODUCTS_DIR}/SwipeCellKit/SwipeCellKit.framework
+${BUILT_PRODUCTS_DIR}/UITableViewCellAnimation/UITableViewCellAnimation.framework
